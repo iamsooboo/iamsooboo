@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsooboo&label=Profile%20views&color=0e75b6&style=flat" alt="iamsooboo" /> </p>
 
-- 🔭 I’m currently working on **M.I.N.D , Aquila**
+- 🔭 I’m currently working on **M.I.N.D **
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
 
