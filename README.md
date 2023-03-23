@@ -1,3 +1,4 @@
+<head><title>iamsooboo</title></head>
 <meta name="description" content="hey i am Shubham Navghare,  also know as iamsooboo"/>
 <img align="center" src="https://miro.medium.com/max/828/1*bpCiEjjuj42XwPSL6EMvtA.png">
 <h1 align="center">Hi 👋, I'm Shubham Navghare</h1>
