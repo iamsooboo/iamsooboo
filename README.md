@@ -1,28 +1,5 @@
 
-<script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "WebSite",
-            "name": "Profile of Shubham Navghare",
-            "url": "https://iamsooboo.com/",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://iamsooboo.com/{search_term_string}",
-                "query-input": "required name=search_term_string"
-            }
-        }
-    </script>
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "Person",
-            "name": "Shubham Navghare",
-            "image": "./assets/img/favicon.jpg",
-            "jobTitle": "Software Developer",
-            "url": "https://iamsooboo.com/",
-            "sameAs": ["https://www.instagram.com/iamsooboo.com", "https://twitter.com/iamsooboo.com", "https://github.com/iamsooboo.com", "https://www.linkedin.com//in/iamsooboo.com", "https://www.facebook.com/iamsooboo.com"]
-        }
-    </script>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -42,6 +19,7 @@
     <meta name="og:Raj Sangani" property="og:title" content="Profile of Shubham Navghare">
     <meta property="og:url" content="https://iamsooboo/">
     <meta name="google-site-verification" content="" />
+        </head>
 <img align="center" src="https://miro.medium.com/max/828/1*bpCiEjjuj42XwPSL6EMvtA.png">
 <h1 align="center">Hi 👋, I'm Shubham Navghare</h1>
 <h3 align="center">A passionate Data Analyst from India🇮🇳</h3>
