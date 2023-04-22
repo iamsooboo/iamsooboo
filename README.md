@@ -1,5 +1,47 @@
 
-<meta name="description" content="hey i am Shubham Navghare,  also know as iamsooboo"/>
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Profile of Shubham Navghare",
+            "url": "https://iamsooboo.com/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://iamsooboo.com/{search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "Person",
+            "name": "Shubham Navghare",
+            "image": "./assets/img/favicon.jpg",
+            "jobTitle": "Software Developer",
+            "url": "https://iamsooboo.com/",
+            "sameAs": ["https://www.instagram.com/iamsooboo.com", "https://twitter.com/iamsooboo.com", "https://github.com/iamsooboo.com", "https://www.linkedin.com//in/iamsooboo.com", "https://www.facebook.com/iamsooboo.com"]
+        }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Shubham">
+    <meta name="author" content="Shubham Navghare">
+    <meta name="description" content="Profile ofShubham Navghare IT Engineer from Mumbai, Maharashtra, India | ">
+    <meta name="keywords" content="India, Mumbai, IT Engineer, Engineer, Website Develpement, Full Stack Developer, Frontend Developer, Backend Developer ,Networking, Data Analyst, Data Scientist, ui/ux, ui/ux developer/ ui/ux designer, Freelancer, iamsooboo, IAMSOOBOO, Iamsooboo, sooboo, SOOBOO, heysooboo, Heysooboo, HEYSOOBOO, ,shubham, Shubham, SHUBHAM, shubham navghare, shubham , Shubham Navghare, Shubham Navghare, SHUBHAM NAVGHARE, SHUBHAM PROFILE, Shubham profile, shubham Profile, Shubham's Profile, Sooboo profile, iamsooboo profile, iamsooboo's profile ,shubham navghare profile, shubham navghare's profile, curriculum vitae, Curriculum Vitae, Good Knowledge, Hardworking, Deal with Challenging Tasks, Sociable Person, CV, ">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta property="og:site_name" content="Shubham Navghare">
+    <meta property="og:site_name" content="sooboo">
+    <meta property="og:title" content="Shubham Navghare">
+    <meta property="og:title" content="iamsooboo">
+    <meta property="og:title" content="Shubham">
+    <meta property="og:type" content="profile">
+    <meta property="og:description" content="Profile ofShubham Navghare IT Engineer from Mumbai, Maharashtra, India | ">
+    <meta name="og:Raj Sangani" property="og:title" content="Profile of Shubham Navghare">
+    <meta property="og:url" content="https://iamsooboo/">
+    <meta name="google-site-verification" content="" />
 <img align="center" src="https://miro.medium.com/max/828/1*bpCiEjjuj42XwPSL6EMvtA.png">
 <h1 align="center">Hi 👋, I'm Shubham Navghare</h1>
 <h3 align="center">A passionate Data Analyst from India🇮🇳</h3>
