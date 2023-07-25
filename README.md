@@ -16,7 +16,8 @@
     <meta property="og:title" content="Shubham">
     <meta property="og:type" content="profile">
     <meta property="og:description" content="Profile ofShubham Navghare IT Engineer from Mumbai, Maharashtra, India | ">
-    <meta name="og:Raj Sangani" property="og:title" content="Profile of Shubham Navghare">
+    <meta name="og:Shubham Navghare" property="og:title" content="Profile of Shubham Navghare">
+    <meta name="og:sooboo" property="og:title" content="Profile of iamsooboo">
     <meta property="og:url" content="https://iamsooboo/">
     <meta name="google-site-verification" content="" />
         </head>
