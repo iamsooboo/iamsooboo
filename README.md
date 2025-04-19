@@ -23,7 +23,7 @@
         </head>
 <img align="center" src="https://miro.medium.com/max/828/1*bpCiEjjuj42XwPSL6EMvtA.png">
 <h1 align="center">
-[<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shubham Navghare!;&center=true&font=Righteous&size=35">
   </a>
     
