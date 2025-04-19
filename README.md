@@ -25,7 +25,7 @@
 <h1 align="center">
 [<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shubham Navghare!;&center=true&font=Righteous&size=35">
-  </a>](https://readme-typing-svg.herokuapp.com/demo/?lines=Hey+There...%F0%9F%91%8B;Myself+Shubham+Navghare..!)
+  </a>
     
 </h1>
 <h3 align="center">A passionate Data Analyst from India🇮🇳</h3>
